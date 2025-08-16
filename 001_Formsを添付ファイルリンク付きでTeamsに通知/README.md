@@ -13,5 +13,4 @@ Formsがグループフォームの場合とそうでない場合で、添付フ
 * 日本語
 
 ## 解説記事
-※後日公開予定
-
+[【Power Automate】Formsの問い合わせを複数の添付ファイルのリンク付きで通知する方法](https://www.fulogabc.net/entry/forms-inquiries-with-multiple-attachment-links)
